@@ -1,0 +1,16 @@
+PODS:
+  - StaticTest (0.1.0)
+
+DEPENDENCIES:
+  - StaticTest (from `../`)
+
+EXTERNAL SOURCES:
+  StaticTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StaticTest: f556ceabafbd1d208da241285029b2c07e70e528
+
+PODFILE CHECKSUM: 68e8ed2c9a0f6d19e82f9d30e6ac03910e7aaccb
+
+COCOAPODS: 1.9.3
